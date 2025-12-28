@@ -18,7 +18,7 @@
     "require": {
         "php":                      ">=8.1",
         "symfony/framework-bundle": "^5.1|^6.0|^7.0|^8.0",
-        "knplabs/knp-snappy":       "^1.4.3"
+        "knplabs/knp-snappy":       "dev-master"
     },
     "autoload": {
         "psr-4": {
